@@ -1,0 +1,18 @@
+img{
+    /* animation */
+    transition: 1s;
+}
+
+input:checked ~ img{
+    /* ẩn phần tử, không hiển thị vị trí */
+    /* display: none; */
+
+
+    /* ẩn phần tử, giữ nguyên vị trí */
+    /* visibility: hidden; */
+
+
+    /* ẩn phần tử, giữ nguyên vị trí, tương tác được phần tử */
+    /* animation chỉ hỗ trợ cho Opacity and Visibility */
+    opacity: 0;
+}

@@ -10,8 +10,9 @@ h1{
     text-transform: capitalize;
 
     /* Căn chữ */
-    text-align: center;
+    text-align: left;
 
     /* Cỡ chữ */
     font-size: 20px;
 }
+
