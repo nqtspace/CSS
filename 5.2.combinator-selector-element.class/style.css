@@ -1,0 +1,24 @@
+*{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 34px;
+}
+h2{
+    font-size: 30px;
+}
+
+h1.tieu-de-2{
+    color: red;
+}
+
+h2.tieu-de-3{
+    color: blue;
+}
+
+a{
+    color: blue;
+}
+
+
