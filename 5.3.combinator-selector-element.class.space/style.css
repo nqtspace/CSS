@@ -1,0 +1,14 @@
+/* Tác động toàn bộ thẻ p nằm trong thẻ div */
+/* div p{
+    color: red;
+} */
+
+/* Tác động lên thẻ con trực tiếp của thẻ div */
+div > p {
+    color: blue;
+}
+
+
+/* .loi-chuc p{
+    font-size: 30px;
+} */
